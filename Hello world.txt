@@ -1,3 +1,5 @@
 print("Hello World;")
 print("Hello Everybody;")
 print("Hello;")
+print("hello Everyone")
+print("hello Everysoul")
